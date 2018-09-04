@@ -4,7 +4,7 @@ import Game from "./components/Game";
 export default () => {
   return (
     <div className="App">
-      <h1>Game of Othello</h1>
+      <h1>Reversi</h1>
       <Game />
     </div>
   );
