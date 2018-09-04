@@ -1,2 +1,0 @@
-# reactversi
-Created with CodeSandbox
